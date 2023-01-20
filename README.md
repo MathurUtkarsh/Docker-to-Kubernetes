@@ -1,1 +1,1 @@
-# Docker-to-Kubernetes
+# Docker to Kubernetes
